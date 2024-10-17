@@ -14,7 +14,7 @@ The cube is drawn using points, and its colors are based on the position of the 
 ## Quick Start
 
 ```console
-   $ git clone https://github.com/yourusername/Rotating_Cube.git
+   $ git clone https://github.com/0x1e9307/Rotating_Cube.git
    $ cd Rotating_Cube
    $ make
    $ ./rotating_cube
