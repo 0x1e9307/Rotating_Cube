@@ -63,6 +63,10 @@ int main() {
                 cleanup(window, context); // Clean up resources on ESC key
                 return 0;
             }
+            if (event.type == SDL_KEYDOWN && event.key.keysym.sym == SDLK_q) {
+                cleanup(window, context); // Clean up resources on 'q' key
+                return 0;
+            }
         }
 
         glClear(GL_COLOR_BUFFER_BIT | GL_DEPTH_BUFFER_BIT);
