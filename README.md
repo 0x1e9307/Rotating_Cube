@@ -9,7 +9,7 @@ The cube is drawn using points, and its colors are based on the position of the 
 
 - Rotating cube with smooth animation
 - Color gradient based on the position of the points
-- Simple event handling for quitting the application (Esc)
+- Simple event handling for quitting the application ('Esc' or 'q' button)
 
 ## Quick Start
 
