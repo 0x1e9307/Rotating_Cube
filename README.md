@@ -31,8 +31,8 @@ Ensure you have the necessary dependencies installed:
 - GLU
 
 ```console
-   sudo apt-get update
-   sudo apt-get install build-essential libsdl2-dev libglew-dev libgl1-mesa-dev libglu1-mesa-dev
+   sudo apt update
+   sudo apt install build-essential libsdl2-dev libglew-dev libgl1-mesa-dev libglu1-mesa-dev
 ```
 
 
